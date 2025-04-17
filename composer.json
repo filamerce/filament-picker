@@ -1,12 +1,12 @@
 {
-    "name": "icetalker/filament-picker",
+    "name": "filamerce/filament-picker",
     "description": "A Regular Picker for Filament Form",
     "keywords": [
         "icetalker",
         "laravel",
         "filament-picker"
     ],
-    "homepage": "https://github.com/icetalker/filament-picker",
+    "homepage": "https://github.com/filamerce/filament-picker",
     "license": "MIT",
     "authors": [
         {
