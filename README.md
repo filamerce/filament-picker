@@ -5,7 +5,9 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/filamerce/filament-picker/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/filamerce/filament-picker/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/filamerce/filament-picker.svg?style=flat-square)](https://packagist.org/packages/filamerce/filament-picker)
 
-A Regular Picker for Filament Form.
+A Regular Picker for Filament v4.
+
+Original package: [icetalker/filament-picker](https://github.com/icetalker/filament-picker)
 
 ![image](https://raw.githubusercontent.com/filamerce/filament-picker/main/screenshots/picker-dark.png)
 
