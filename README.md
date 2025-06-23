@@ -1,22 +1,24 @@
-# A Regular Picker for Filament Form
+# A Regular Picker for Filament
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/icetalker/filament-picker.svg?style=flat-square)](https://packagist.org/packages/icetalker/filament-picker)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/icetalker/filament-picker/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/icetalker/filament-picker/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/icetalker/filament-picker/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/icetalker/filament-picker/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/icetalker/filament-picker.svg?style=flat-square)](https://packagist.org/packages/icetalker/filament-picker)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/filamerce/filament-picker.svg?style=flat-square)](https://packagist.org/packages/filamerce/filament-picker)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/filamerce/filament-picker/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/filamerce/filament-picker/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/filamerce/filament-picker/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/filamerce/filament-picker/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/filamerce/filament-picker.svg?style=flat-square)](https://packagist.org/packages/filamerce/filament-picker)
 
-A Regular Picker for Filament Form.
+A Regular Picker for Filament v3.
 
-![image](https://raw.githubusercontent.com/icetalker/filament-picker/main/screenshots/picker-dark.png)
+Original package: [icetalker/filament-picker](https://github.com/icetalker/filament-picker)
 
-![image](https://raw.githubusercontent.com/icetalker/filament-picker/main/screenshots/picker-light.png)
+![image](https://raw.githubusercontent.com/filamerce/filament-picker/main/screenshots/picker-dark.png)
+
+![image](https://raw.githubusercontent.com/filamerce/filament-picker/main/screenshots/picker-light.png)
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require icetalker/filament-picker
+composer require filamerce/filament-picker
 ```
 
 Optionally, you can publish the views using
